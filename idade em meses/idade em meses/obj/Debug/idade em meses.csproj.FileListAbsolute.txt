@@ -1,0 +1,11 @@
+H:\Visual Studio 2022\Projects\idade em meses\idade em meses\bin\Debug\idade em meses.exe.config
+H:\Visual Studio 2022\Projects\idade em meses\idade em meses\bin\Debug\idade em meses.exe
+H:\Visual Studio 2022\Projects\idade em meses\idade em meses\bin\Debug\idade em meses.pdb
+H:\Visual Studio 2022\Projects\idade em meses\idade em meses\obj\Debug\idade em meses.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\idade em meses\idade em meses\obj\Debug\idade em meses.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\idade em meses\idade em meses\obj\Debug\idade_em_meses.Form1.resources
+H:\Visual Studio 2022\Projects\idade em meses\idade em meses\obj\Debug\idade_em_meses.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\idade em meses\idade em meses\obj\Debug\idade em meses.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\idade em meses\idade em meses\obj\Debug\idade em meses.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\idade em meses\idade em meses\obj\Debug\idade em meses.exe
+H:\Visual Studio 2022\Projects\idade em meses\idade em meses\obj\Debug\idade em meses.pdb
