@@ -1,0 +1,11 @@
+H:\Visual Studio 2022\Projects\AppCalculadora\AppCalculadora\bin\Debug\AppCalculadora.exe.config
+H:\Visual Studio 2022\Projects\AppCalculadora\AppCalculadora\bin\Debug\AppCalculadora.exe
+H:\Visual Studio 2022\Projects\AppCalculadora\AppCalculadora\bin\Debug\AppCalculadora.pdb
+H:\Visual Studio 2022\Projects\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.calculadora.resources
+H:\Visual Studio 2022\Projects\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.exe
+H:\Visual Studio 2022\Projects\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.pdb
